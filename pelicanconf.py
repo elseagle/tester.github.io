@@ -20,8 +20,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Medium', 'http://medium.com/oluwasogooluwafemiogundowole'),
-	 ('Github', 'github.com/elseagle'),
+LINKS = (('Medium', 'http://medium.com/@oluwasogooluwafemiogundowole'),
+	 ('Github', 'http://github.com/elseagle'),
          ('Python.org', 'http://python.org/'))
 
 # Social widget
